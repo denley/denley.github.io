@@ -22,7 +22,7 @@ The information we collect is stored indefinitely and shared with the following 
 - Crashlytics
 - Fabric
 
-###Contact Us
-If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact us at 8ballref@denley.me
+### Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at 8ballref@denley.me
 
 
