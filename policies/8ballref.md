@@ -12,7 +12,7 @@ except as described in this Privacy Policy.
 
 ### Information Collection and Use
 We collect the following information during the use of our app:
-- Diagnostic information for crashes, including device information (model, manufacturer, operating system version)
+- Diagnostic information for crashes, including device information (device IDs, model, manufacturer, operating system version)
 
 This information is used for the following purposes:
 - Diagnosing crashes in the app to improve the user experience
